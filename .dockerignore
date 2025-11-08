@@ -1,0 +1,12 @@
+.git/
+.gitignore
+README.md
+pyproject.toml
+uv.lock
+__pycache__/
+venv/
+.venv/
+.idea/
+.DS_Store
+Dockerfile
+.dockerignore
