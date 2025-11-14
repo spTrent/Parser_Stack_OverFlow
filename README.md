@@ -8,6 +8,10 @@
 
 ---
 
+**Ссылка на DockerHub:** https://hub.docker.com/repository/docker/sptrent/parser_sof/general
+
+---
+
 **Установка:**
 
     git clone https://github.com/spTrent/Parser_Stack_OverFlow.git
